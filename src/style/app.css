@@ -1,0 +1,35 @@
+body { 
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4;
+}
+
+.shadow {
+  box-shadow: 0 18px 35px rgba(50,50,93,.1), 0 8px 15px rgba(0,0,0,.07);
+}
+
+.card { 
+  width: 250px;
+  height: 350px;
+}
+
+.card .icon {
+  bottom: -150px;
+  left: 0px;
+}
+
+.sub-bar:before {
+  content: '';
+  display: block;
+  width: 1rem;
+  height: 2px;
+  background: #333;
+  margin: .5rem 0;
+}
+
+h1,h2,h3,p {
+  margin: 0;
+}
+
+::placeholder {
+  color: #ccc;
+}
