@@ -18,7 +18,7 @@ export default ({
           {false && <div className="tc nb2"><Icon size={80} fill="#00beef33" /></div>}
 
           <div className="icon absolute">
-            <Icon size={350} fill="rgba(0,0,0,0.025)" />
+            <Icon size={350} fill="rgba(0,0,0,0.03)" />
           </div>
           <p className="light-silver tc f7">Deep Cards</p>
           <div className="absolute right-0 bottom-0 f7 light-silver">

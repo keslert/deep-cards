@@ -140,12 +140,44 @@ export default [
     tags: [''],
     number: 35,
   },{
-    text: '',
+    text: "How do you balance chasing money, prestige and/or high powered positions with being content with what you've obtained? Where do you draw the line?",
     tags: [''],
     number: 36,
   },{
-    text: '',
+    text: 'If you could write a fiction novel, describe your protagonist?',
     tags: [''],
     number: 37,
+  },{
+    text: "What's your ideal retirement?",
+    tags: [''],
+    number: 38,
+  },{
+    text: "You've retired with $3 million—How do you spend your money?",
+    tags: [''],
+    number: 39,
+  },{
+    text: "You've just started a t-shirt line? What's your thing?",
+    tags: [''],
+    number: 40,
+  },{
+    text: "What's something that most people consider as common knowledge for adult, but you're still in the dark?",
+    tags: [''],
+    number: 41,
+  },{
+    text: "What's one job perk that might sway you into joining a company?",
+    tags: [''],
+    number: 42,
+  },{
+    text: "What's something that costs $50 or less that's a huge value add for your life?",
+    tags: [''],
+    number: 43,
+  },{
+    text: "What's your favorite purchase?",
+    tags: [''],
+    number: 44,
+  },{
+    text: "What pair of shoes have brought you the most satisfaction?",
+    tags: [''],
+    number: 45,
   }
 ]
