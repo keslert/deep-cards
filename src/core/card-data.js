@@ -179,5 +179,29 @@ export default [
     text: "What pair of shoes have brought you the most satisfaction?",
     tags: [''],
     number: 45,
+  },{
+    text: "You feel a touch on your shoulder. \"Are you sleeping in class again?\" You wake up in your 7th grade math class and realize your life up to this point was just a dream. How do you react and what do plan to do?",
+    tags: [''],
+    number: 46,
+  },{
+    text: "Without saying what the category is, what are your top five?",
+    tags: [''],
+    number: 47,
+  },{
+    text: "What's an \"oh no\" moment where you realised you've been doing something the wrong way for years?",
+    tags: [''],
+    number: 48,
+  },{
+    text: "Besides eating cereal with water, what is the most outrageous \"eating sin\" you have ever witnessed?",
+    tags: [''],
+    number: 49,
+  },{
+    text: "What is something you find super important that is on the verge of happening?",
+    tags: [''],
+    number: 50,
+  },{
+    text: "What is the most kind/wholesome thing you've overhead about you or someone you know by accident?",
+    tags: [''],
+    number: 51,
   }
 ]
