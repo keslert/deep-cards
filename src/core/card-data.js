@@ -203,5 +203,32 @@ export default [
   },{
     text: "What are some things you are below average at and some things you are above average at?",
     tags: [''],
+  },{
+    text: "What's the best way to get to know you as a person?",
+    tags: [''],
+  },{
+    text: "What traits do you envy/value in those around you?",
+    tags: [''],
+  },{
+    text: "What do you feel insecure about?",
+    tags: [''],
+  },{
+    text: "What do you value in friendships? What are the best ways they add to your life?",
+    tags: [''],
+  },{
+    text: "How, historically, have you become close to people?",
+    tags: [''],
+  },{
+    text: "If you could design a personal set of social norms for how your friends interact with you, what would they be?",
+    tags: [''],
+  },{
+    text: "How would other people describe you? How does this compare to how you want to be perceived?",
+    tags: [''],
+  },{
+    text: "What in life do you get truly excited about?",
+    tags: [''],
+  },{
+    text: "What is something cool you learned recently?",
+    tags: [''],
   },
 ].map((q, i) => ({...q, number: i}))
