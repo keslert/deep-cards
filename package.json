@@ -14,5 +14,10 @@
     "dev": "next dev -p 3014",
     "build": "next build",
     "start": "next start"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "typescript": "4.9.3"
   }
 }
